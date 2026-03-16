@@ -1,1 +1,1 @@
-# Comparative-Analysis-of-Time-Series-Forecasting-Models
+# Comparative-Analysis-of-Time-Series-Forecasting-Mode
